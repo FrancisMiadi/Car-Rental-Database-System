@@ -1,4 +1,4 @@
-# 🚗 Vehicle Leasing Database Management System  
+# 🚗 Vehicle Renting Database Management System  
 
 ## 📌 Overview  
 This **university project** focuses on designing and implementing a **database management system (DBMS)** for a **Jerusalem-based car rental company**. The goal is to transition from **manual record-keeping (notebooks, papers, and Excel sheets) to a digital database system**, improving efficiency and data management.  
