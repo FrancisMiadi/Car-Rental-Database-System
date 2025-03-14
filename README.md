@@ -36,10 +36,7 @@ This **university project** focuses on designing and implementing a **database m
 - **A vehicle** can undergo **only one maintenance process at a time**.  
 - **An employee** can create multiple contracts but **each contract is assigned to one employee**.  
 - **Each maintenance process** is linked to **one or more vehicles** but supervised by **only one employee**.  
-- **Each contract** must have **at least one payment** recorded.  
-
-## 🏗️ Entity-Relationship Diagram (ERD)  
- *The ERD is included in the project documentation.*  
+- **Each contract** must have **at least one payment** recorded.    
 
 ## 🤝 Project Team  
 - **Francis Miadi** 
